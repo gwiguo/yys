@@ -5,4 +5,4 @@
 2.打开index.html即可运行
 ```
 ## 项目截图:
-<img src="https://github.com/gwiguo/fruit-mall/blob/master/screenshot/index.png" width="320px" style="display:inline;">
+<img src="https://github.com/gwiguo/yys/blob/master/screenshot/index.png" width="320px" style="display:inline;">
